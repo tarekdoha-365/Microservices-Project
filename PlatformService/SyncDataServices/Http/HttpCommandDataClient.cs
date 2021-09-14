@@ -33,7 +33,7 @@ namespace PlatformService.SyncDataServices.Http
             }
             else
             {
-                Console.WriteLine("Sync Post to commandService was not OK!");
+                Console.WriteLine("-->Sync Post to commandService was not OK!");
             }
         }
     }

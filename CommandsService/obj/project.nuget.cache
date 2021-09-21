@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m9OQhoKmZYfF4bcq22CRTiDl+hhQXJ6dG/hmc5L3tAWAMedlx03ufEaAq8AihLcdUKNzWW6WRKtw5hRF+9F5Ng==",
+  "dgSpecHash": "Rx6eM33kFd8CRPmGoXIBgHlgRz7km5iSJ5p/OtrY/QUVAS9Mn/TqAG2TdKebCnEazBZg3bpt/w8aLqGifmQh1g==",
   "success": true,
   "projectFilePath": "C:\\repos\\Repeat-Microservices\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [

@@ -37,3 +37,5 @@ C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.d
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll

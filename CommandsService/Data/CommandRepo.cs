@@ -15,7 +15,7 @@ namespace CommandsService.Data
             _context= context;
         }
 
-        public void CreateCommand(int platformId, Command command)
+        public void CreateCommandForPlatform(int platformId, Command command)
         {
             if(command==null)
             {

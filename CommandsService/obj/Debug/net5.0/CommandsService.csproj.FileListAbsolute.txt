@@ -1,5 +1,6 @@
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\appsettings.Development.json
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\appsettings.json
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\CommandsService.exe
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\CommandsService.deps.json
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\CommandsService.runtimeconfig.json
@@ -9,6 +10,10 @@ C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\ref\CommandsServi
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\CommandsService.pdb
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\AutoMapper.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Humanizer.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -17,6 +22,7 @@ C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.EntityF
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -37,5 +43,3 @@ C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.d
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 C:\repos\Repeat-Microservices\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
-C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
-C:\repos\Repeat-Microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
